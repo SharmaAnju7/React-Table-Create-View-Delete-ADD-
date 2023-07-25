@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "fullName": "Pawan Sharma",
+      "phoneNumber": "9876534121",
+      "address": "Bajung ,Parbat",
+      "email": "pwn56@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Anil Acharya",
+      "phoneNumber": "089464245",
+      "address": "Kathmandu,Nepal",   
+      "email": "anilach78@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Om Prasad Sharma",
+      "phoneNumber": "75635272892",
+      "address": "Jaljala,Magyadi",  
+      "email": "omp678@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Sabitri Sharma",
+      "phoneNumber": "09876543",
+      "address": "Salija, Parbat",
+      "email": "jsabit78@email.com"
+    },
+    {
+      "id": 5,
+      "fullName": "Anju Acharya",
+      "phoneNumber": "4567823188",
+      "address": "Pokhara,Nepal",
+      "email": "pnhdfg@email.com"
+    }
+
+  ]
